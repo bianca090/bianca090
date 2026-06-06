@@ -48,6 +48,8 @@ Gosto de trocar ideias sobre tecnologia, testes de software e metodologias ágei
   </a>
 </p>
 
+![QA Automation Pixel Art](qa-setup.png)
+
 ---
 
 <p align="center">
