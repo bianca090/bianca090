@@ -56,7 +56,7 @@ Gosto de trocar ideias sobre tecnologia, testes de software e metodologias ágei
 
 
 <div align="right">
-  <img src="pixel_art_img.jpg" alt="Menina jogando videogame" width="250px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2M3p3NzZ4M3g4amNlZmtkaHlycm4zM245MXI1amY2M3AwaXNtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9373335425045138459/giphy.gif" alt="Menina jogando videogame" width="250px">
 </div>
 
 
