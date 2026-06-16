@@ -55,9 +55,8 @@ Gosto de trocar ideias sobre tecnologia, testes de software e metodologias ágei
 
 
 
-
 <div align="center">
-  <img src="" alt="pixel_art_img.jpg" width="250px">
+  <img src="pixel_art_img.jpg" alt="Menina jogando videogame" width="250px">
 </div>
 
 
