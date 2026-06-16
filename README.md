@@ -52,9 +52,20 @@ Gosto de trocar ideias sobre tecnologia, testes de software e metodologias ágei
 </p>
 
 
+
+
+
+
 <div align="center">
-  <img src="" alt="pixel_art_img" width="250px">
+  <img src="" alt="pixel_art_img.jpg" width="250px">
 </div>
+
+
+
+
+
+
+
 
 ---
 
