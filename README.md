@@ -51,7 +51,7 @@ Gosto de trocar ideias sobre tecnologia, testes de software e metodologias ágei
 ---
 
 <p align="center">
-  <i>"A qualidade não é um ato, é um hábito."</i>
+  <i>"Em constante evolução, linha por linha, teste por teste."</i>
 </p>
 
 <!--
