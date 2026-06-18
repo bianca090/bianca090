@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Bianca Gomes de Lira!
+# 👋 Hello, eu sou a Bianca Lira!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudante%20de%20ADS-blue?style=for-the-badge" alt="Status">
