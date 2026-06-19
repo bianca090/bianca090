@@ -46,7 +46,7 @@ Gosto de trocar ideias sobre tecnologia, testes de software e metodologias ágei
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">                                
   </a>
-<a href="https://outlook.cloud.microsoft/Biancagomeslira09@gmail.com">
+<a href="https://www.gmail.com/Biancagomeslira09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
