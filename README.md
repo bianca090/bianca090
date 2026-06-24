@@ -42,7 +42,7 @@ Aqui estão as tecnologias que utilizo no meu dia a dia de estudos e desenvolvim
 | Categoria | Tecnologias e Ferramentas |
 | :--- | :--- |
 | **Linguagens** | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Automação E2E** | ![](https://img.shields.io/badge/Cypress-170B11?style=for-the-badge&logo=cypress&logoColor=white) ![](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white) | ![](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white")
+| **Automação E2E** | ![](https://img.shields.io/badge/Cypress-170B11?style=for-the-badge&logo=cypress&logoColor=white) ![](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white) ![](https://img.shields.io/badge/Robot%20Framework-002B66?style=for-the-badge&logo=robotframework&logoColor=white) |
 | **Testes de API** | ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | **Controle de Versão** | ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
