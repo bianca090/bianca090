@@ -127,9 +127,6 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 
 
 
----
-
-
 <hr />
 
 <p align="center">
