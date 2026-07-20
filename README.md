@@ -42,17 +42,20 @@ Here are the technologies and tools I use in my daily studies and test automatio
 
 ---
 
-### 🧠 No que estou focada/aprendendo agora:
-* 🧪 Construção de arquiteturas de testes ponta a ponta (E2E) limpas e escaláveis com **Cypress**.
-* ⚡ Validação e testes automatizados de APIs utilizando **Postman**.
-* 📐 Escrita de cenários de testes eficientes e mapeamento estratégico de elementos web.
-* 🎓 Aplicação prática de conceitos de qualidade no desenvolvimento de projetos universitários.
+### 🧠 What I'm currently focusing on / learning:
+
+* 🧪 **Building clean and scalable End-to-End (E2E) test architectures** with Cypress.
+* ⚡ **API validation and automated testing** using Postman.
+* 📐 **Writing efficient test scenarios** and strategic web element mapping.
+* 🔮 **Applying software quality concepts in practice** through academic and personal projects.
 
 ---
 
-### 🤝 Vamos nos conectar?
+### 🤝 Let's Connect!
 
-Gosto de trocar ideias sobre tecnologia, testes de software e metodologias ágeis. Se quiser acompanhar minha evolução ou bater um papo profissional, me encontre aqui:           
+I love exchanging ideas about technology, software testing, and agile methodologies. If you'd like to follow my journey or connect professionally, feel free to reach out:
+---
+
 
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -65,11 +68,14 @@ Gosto de trocar ideias sobre tecnologia, testes de software e metodologias ágei
   </a>
 </p>
 
+
 ---
+
 
 <p align="center">
   <i>"Em constante evolução, linha por linha, teste por teste."</i>
 </p>
+
 
 <!--
 
