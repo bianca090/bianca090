@@ -8,14 +8,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=70&lines=%3E_+BUG+DETECTED+_" alt="Bug Detected" />
 </div>
 ---
+
+
+
+
+
+
+
 <p align="center">
-
-
-
-
-
-  
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=30363D&hide_border=false" alt="Bianca's GitHub Stats" width="48%" />
+
+
+
 
 
 
