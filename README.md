@@ -72,7 +72,7 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 
 
 <a href="mailto:biancagomeslira09@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/biancagomeslira09@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  <img src="https://img.shields.io/badge/biancagomeslira09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
 </a>
 
 
