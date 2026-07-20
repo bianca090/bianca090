@@ -33,7 +33,6 @@ Currently focused on turning software engineering concepts into robust, efficien
 </div>
 
 
-
 ### 🛠️ Core Tech Stack & Tools
 
 Here are the technologies and tools I use in my daily studies and test automation development:
