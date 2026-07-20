@@ -14,18 +14,19 @@ Software Development student in my final term, passionate about Quality Assuranc
 Currently focused on turning software engineering concepts into robust, efficient test automation scripts — always applying industry best practices and exploring new technologies.
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=70&lines=%3E_+BUG+DETECTED+_" alt="Bug Detected" />
-</div>
-
-
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bianca090&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=30363D" alt="Top Languages" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bianca090&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=30363D" alt="Bianca's GitHub Stats" width="48%" />
   </p>
 
 ---
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=70&lines=%3E_+BUG+DETECTED+_" alt="Bug Detected" />
+</div>
+
+
 
 ### 🛠️ Core Tech Stack & Tools
 
