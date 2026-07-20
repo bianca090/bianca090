@@ -82,7 +82,7 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 ---
 
 
-> *Garantindo qualidade, linha por linha, teste por teste.*
+<p align="center"><em>Garantindo qualidade, linha por linha, teste por teste.</em></p>
 
 <!--
 
