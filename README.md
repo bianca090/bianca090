@@ -55,9 +55,14 @@ Here are the technologies and tools I use in my daily studies and test automatio
 
 I love exchanging ideas about technology, software testing, and agile methodologies. If you'd like to follow my journey or connect professionally, feel free to reach out:
 ---
+
+
 <a href="https://www.linkedin.com/in/biancagomesdelira/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
+
+
+
   <a href="mailto:biancagomeslira09@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
 </a>
