@@ -16,8 +16,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biancalira&show_icons=true&theme=matrix" alt="Bianca's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancalira&layout=compact&theme=matrix" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=30363D&hide_border=false" alt="Bianca's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
 
