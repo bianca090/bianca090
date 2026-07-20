@@ -26,7 +26,6 @@ Currently focused on turning software engineering concepts into robust, efficien
 
 
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bianca090&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=30363D&hide_border=false" alt="Bianca's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca090&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="Top Languages" width="48%" />
