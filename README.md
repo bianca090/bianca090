@@ -130,7 +130,11 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 ---
 
 
-<p align="center"><em>Garantindo qualidade, linha por linha, teste por teste.</em></p>
+<hr />
+
+<p align="center">
+  <sub><b>Bianca Lira</b> • 2026</sub>
+</p>
 
 <!--
 
