@@ -1,10 +1,16 @@
-# Hi, I'm Bianca Lira! 👋 
-> *Garantindo qualidade, linha por linha, teste por teste.*
+<div align="center">
 
-![Status](https://img.shields.io/badge/STATUS-STUDENT-0D1117?style=flat-square&labelColor=0D1117&color=00FF66)
-![Focus](https://img.shields.io/badge/FOCUS-QA%20%26%20AUTOMATION-0D1117?style=flat-square&labelColor=0D1117&color=00FF66)
+  <h1>Hi, I'm Bianca Lira! 👋</h1>
 
----
+  <p><em>Garantindo qualidade, linha por linha, teste por teste.</em></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-SOFTWARE%20DEVELOPMENT%20STUDENT-161B22?style=flat-square&labelColor=161B22&color=2EA043" alt="Status" />
+    <img src="https://img.shields.io/badge/FOCUS-QA%20%26%20AUTOMATION-161B22?style=flat-square&labelColor=161B22&color=2EA043" alt="Focus" />
+  </p>
+
+</div>
+
 ---
 
 ### 👩‍💻 About Me
