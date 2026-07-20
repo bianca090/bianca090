@@ -1,8 +1,8 @@
-# 👋 Hello, eu sou a Bianca Lira!
+# 👋 Hi, I'm Bianca Lira!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Software%20Development%20Student-blue?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-QA%20%26%20Automation-green?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/STATUS-SOFTWARE%20DEVELOPMENT%20STUDENT-007ACC?style=for-the-badge&labelColor=161B22&color=007ACC" alt="Status">
+  <img src="https://img.shields.io/badge/FOCUS-QA%20%26%20AUTOMATION-00FF66?style=for-the-badge&labelColor=161B22&color=00FF66&logoColor=black" alt="Focus">
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=70&lines=%3E_+BUG+DETECTED+_" alt="Bug Detected" />
