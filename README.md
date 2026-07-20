@@ -51,11 +51,6 @@ Here are the technologies and tools I use in my daily studies and test automatio
 ---
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NHNmcWRiaXpxejI3cnE0bmtrZnk3Z3p5dmJqMW4xeDRxNDJuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9sv3y0/giphy.gif" alt="Matrix Digital Rain" width="100%" height="180px" style="object-fit: cover;" />
-</p>
-
-
 ### 🤝 Let's Connect!
 
 I love exchanging ideas about technology, software testing, and agile methodologies. If you'd like to follow my journey or connect professionally, feel free to reach out:
@@ -71,6 +66,14 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 <a href="https://www.gmail.com">
     <img src="https://img.shields.io/badge/Biancagomeslira09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
+</p>
+
+
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NHNmcWRiaXpxejI3cnE0bmtrZnk3Z3p5dmJqMW4xeDRxNDJuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9sv3y0/giphy.gif" alt="Matrix Digital Rain" width="100%" height="180px" style="object-fit: cover;" />
 </p>
 
 
