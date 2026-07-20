@@ -46,9 +46,9 @@ Currently focused on turning software engineering concepts into robust, efficien
 
 Here are the technologies and tools I use in my daily studies and test automation development:
 
-<table width="300%">
+<table width="100%">
   <tr>
-    <td width="25%"><strong>Languages</strong></td>
+    <td width="50%"><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
