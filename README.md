@@ -9,10 +9,11 @@
 </div>
 ---
 
-### 👩‍💻 Sobre Mim
-Estudante na reta final de **Análise e Desenvolvimento de Sistemas**, apaixonada pela área de **Garantia de Qualidade (QA) e Automação de Testes**. Utilizo meu GitHub como um portfólio dos meus projetos acadêmicos, desafios práticos e evolução técnica. 
+### 👩‍💻 About Me
 
-Atualmente, estou focada em transformar conceitos teóricos de engenharia de software em scripts de testes robustos e eficientes, sempre buscando aprender novas tecnologias e aplicar boas práticas de mercado.
+Software Development student in my final term, passionate about Quality Assurance (QA) and Test Automation. I use my GitHub as a hands-on portfolio to share academic projects, technical challenges, and my growth in software testing.
+
+Currently focused on turning software engineering concepts into robust, efficient test automation scripts — always applying industry best practices and exploring new technologies.
 
 
 
