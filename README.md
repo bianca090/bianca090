@@ -79,9 +79,8 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 
 
 
-
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NHNmcWRiaXpxejI3cnE0bmtrZnk3Z3p5dmJqMW4xeDRxNDJuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9sv3y0/giphy.gif" alt="Matrix Rain Effect" width="100%" height="200px" style="object-fit: cover;" />
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-FULLY_AUTOMATED-0D1117?style=for-the-badge&logo=matrix&logoColor=00FF66&labelColor=0D1117&color=00FF66" alt="Hacker Status" />
 </p>
 
 
