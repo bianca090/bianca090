@@ -9,27 +9,6 @@
 </div>
 ---
 
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bianca090&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=30363D&hide_border=false" alt="Bianca's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca090&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="Top Languages" width="48%" />
-</p>
-
-
-
-
-
-
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="Top Languages" width="48%" />
-</p>
-
 ### 👩‍💻 About Me
 
 Software Development student in my final term, passionate about Quality Assurance (QA) and Test Automation. I use my GitHub as a hands-on portfolio to share academic projects, technical challenges, and my growth in software testing.
@@ -38,16 +17,10 @@ Currently focused on turning software engineering concepts into robust, efficien
 
 
 
-
-
-<div>
-  <a href="https://github.com/bianca090">
-    <img loading="lazy" height="180" src="https://github-readme-stats-one.vercel.app/api?username=bianca090&show_icons=true&theme=tokyonight" />
-    <img loading="lazy" height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=bianca090&layout=compact&langs_count=7&theme=tokyonight" />
-  </a>
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bianca090&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=30363D&hide_border=false" alt="Bianca's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca090&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
