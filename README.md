@@ -37,7 +37,7 @@ Currently focused on turning software engineering concepts into robust, efficien
 
 Here are the technologies and tools I use in my daily studies and test automation development:
 
-<table width="100%">
+<table width="150%">
   <tr>
     <td width="25%"><strong>Languages</strong></td>
     <td>
