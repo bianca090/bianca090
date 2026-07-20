@@ -42,13 +42,27 @@ Here are the technologies and tools I use in my daily studies and test automatio
 
 
 
+### 🛠️ Core Tech Stack & Tools
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF66&labelColor=0D1117" height="50" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF66&labelColor=0D1117" height="50" alt="Python" /> |
-| **E2E Automation** | <img src="https://img.shields.io/badge/Cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=00FF66&labelColor=0D1117" height="50" alt="Cypress" /> <img src="https://img.shields.io/badge/Cucumber-0D1117?style=for-the-badge&logo=cucumber&logoColor=00FF66&labelColor=0D1117" height="50" alt="Cucumber" /> <img src="https://img.shields.io/badge/Robot_Framework-0D1117?style=for-the-badge&logo=robotframework&logoColor=00FF66&labelColor=0D1117" height="50" alt="Robot Framework" /> |
-| **API Testing** | <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00FF66&labelColor=0D1117" height="50" alt="Postman" /> |
-| **Version Control** | <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF66&labelColor=0D1117" height="50" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0D1117" height="50" alt="GitHub" /> |
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+**Test Automation (E2E & API)**
+<p>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+**Version Control & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 
 
