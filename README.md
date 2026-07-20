@@ -50,6 +50,19 @@ Here are the technologies and tools I use in my daily studies and test automatio
 
 ---
 
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[E2E Cypress Suite](#)** | Web test automation framework built for end-to-end testing scenarios. | `Cypress` `JavaScript` `Mochawesome` |
+| **[API Testing Collection](#)** | Automated REST API testing suite covering edge cases and status validation. | `Postman` `Newman` `JSON` |
+
+
+
+
+
+
 ### 🤝 Let's Connect!
 
 I love exchanging ideas about technology, software testing, and agile methodologies. If you'd like to follow my journey or connect professionally, feel free to reach out:
