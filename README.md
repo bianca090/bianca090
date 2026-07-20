@@ -72,29 +72,11 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 
 
 
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-FULLY_AUTOMATED-0D1117?style=for-the-badge&logo=matrix&logoColor=00FF66&labelColor=0D1117&color=00FF66" alt="Hacker Status" />
-</p>
-
-
-
-
-
-
-
-
 ---
 
 
 <p align="center">
-  <i>"Em constante evolução, linha por linha, teste por teste."</i>
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-FULLY_AUTOMATED-0D1117?style=for-the-badge&logo=matrix&logoColor=00FF66&labelColor=0D1117&color=00FF66" alt="Hacker Status" />
 </p>
 
 
