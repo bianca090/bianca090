@@ -73,7 +73,9 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NHNmcWRiaXpxejI3cnE0bmtrZnk3Z3p5dmJqMW4xeDRxNDJuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9sv3y0/giphy.gif" alt="Matrix Digital Rain" width="100%" height="180px" style="object-fit: cover;" />
+  <a href="https://github.com/bianca090">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=600&height=50&lines=%3E_ INITIALIZING_MATRIX_PROTOCOL...;%3E_ BUGS_DETECTED:_0;%3E_ SYSTEM_STATUS:_FULLY_AUTOMATED" alt="Hacker Typing Effect" />
+  </a>
 </p>
 
 
