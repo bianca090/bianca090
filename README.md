@@ -27,9 +27,7 @@ Currently focused on turning software engineering concepts into robust, efficien
 
 ---
 
-### 🛠️ Minha Stack & Ferramentas Principais
-
-Aqui estão as tecnologias que utilizo no meu dia a dia de estudos e desenvolvimento de automações:
+### 🛠️ Core Tech Stack & Tools
 
 Here are the technologies and tools I use in my daily studies and test automation development:
 
