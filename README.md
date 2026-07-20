@@ -72,11 +72,21 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 
 
 
+
+
+
+
+
 <p align="center">
   <a href="https://github.com/bianca090">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=600&height=50&lines=%3E_ INITIALIZING_MATRIX_PROTOCOL...;%3E_ BUGS_DETECTED:_0;%3E_ SYSTEM_STATUS:_FULLY_AUTOMATED" alt="Hacker Typing Effect" />
   </a>
 </p>
+
+
+
+
+
 
 
 ---
