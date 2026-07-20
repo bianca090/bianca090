@@ -50,6 +50,11 @@ Here are the technologies and tools I use in my daily studies and test automatio
 
 ---
 
+
+
+
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bianca090&theme=tokyonight&background=0D1117&border=30363D&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=C9D1D9&sideTitle=C9D1D9" alt="GitHub Streak" />
 </p>
