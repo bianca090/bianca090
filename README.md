@@ -100,10 +100,10 @@ Here are the technologies and tools I use in my daily studies and test automatio
 
 ### 🧠 What I'm currently focusing on / learning:
 
-* 🧪 **Building clean and scalable End-to-End (E2E) test architectures** with Cypress.
-* ⚡ **API validation and automated testing** using Postman.
-* 📐 **Writing efficient test scenarios** and strategic web element mapping.
-* 🔮 **Applying software quality concepts in practice** through academic and personal projects.
+*  **Building clean and scalable End-to-End (E2E) test architectures** with Cypress.
+*  **API validation and automated testing** using Postman.
+*  **Writing efficient test scenarios** and strategic web element mapping.
+*  **Applying software quality concepts in practice** through academic and personal projects.
 
 ---
 
