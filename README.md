@@ -115,11 +115,15 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancagomesdelira/)
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/biancagomesdelira/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancagomeslira09@gmail.com)
-
-
+<!-- Gmail -->
+<a href="mailto:biancagomeslira09@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 
 
