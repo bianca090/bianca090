@@ -18,35 +18,12 @@
 Software Development student in my final term, passionate about Quality Assurance (QA) and Test Automation. I use my GitHub as a hands-on portfolio to share academic projects, technical challenges, and my growth in software testing.
 
 Currently focused on turning software engineering concepts into robust, efficient test automation scripts — always applying industry best practices and exploring new technologies.
-
-<div align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/bianca-gomes-de-lira/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Gmail -->
-  <a href="mailto:biancagomeslira@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- GitHub -->
-  <a href="https://github.com/Bianca090" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  </a>
-  
 ---
 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=70&lines=%3E_+BUG+DETECTED+_" alt="Bug Detected" />
 </div>
-
-
-
-
-
-
 
 
 
@@ -96,16 +73,6 @@ Here are the technologies and tools I use in my daily studies and test automatio
 
 
 
-
-
-
-
-
-
-
-
-
-
 ---
 
 ### 🧠 What I'm currently focusing on / learning:
@@ -124,7 +91,11 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 ---
 
 
+<hr />
 
+
+
+<div align="center">
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/biancagomesdelira/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -135,13 +106,12 @@ I love exchanging ideas about technology, software testing, and agile methodolog
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-
-
-<hr />
-
-<p align="center">
-  <sub><b>Bianca Lira</b> • 2026</sub>
-</p>
+<!-- GitHub -->
+  <a href="https://github.com/SEU_USUARIO_GITHUB" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  </a>
+  </div>
+  
 
 <!--
 
