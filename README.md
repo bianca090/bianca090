@@ -19,12 +19,22 @@ Software Development student in my final term, passionate about Quality Assuranc
 
 Currently focused on turning software engineering concepts into robust, efficient test automation scripts — always applying industry best practices and exploring new technologies.
 
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bianca090&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=30363D" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bianca090&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=30363D" alt="Bianca's GitHub Stats" width="48%" />
-  </p>
-
+<div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bianca-gomes-de-lira/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:biancagomeslira@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/Bianca090" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  </a>
+  
 ---
 
 
