@@ -84,18 +84,9 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 <br />
 
 <div align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/biancagomesdelira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <!-- Gmail -->
-  <a href="mailto:biancagomeslira09@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <!-- GitHub -->
-  <a href="https://github.com/SEU_USUARIO_GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/biancagomesdelira/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" /></a>
+  
+  <a href="mailto:biancagomeslira09@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" /></a>
+  
+  <a href="https://github.com/bianca090" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></a>
 </div>
