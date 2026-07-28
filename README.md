@@ -18,27 +18,23 @@
 Software Development student in my final term, passionate about Quality Assurance (QA) and Test Automation. I use my GitHub as a hands-on portfolio to share academic projects, technical challenges, and my growth in software testing.
 
 Currently focused on turning software engineering concepts into robust, efficient test automation scripts — always applying industry best practices and exploring new technologies.
----
 
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=70&lines=%3E_+BUG+DETECTED+_" alt="Bug Detected" />
 </div>
 
-
-
-
+---
 
 ### 🛠️ Core Tech Stack & Tools
 
 Here are the technologies and tools I use in my daily studies and test automation development:
 
-
-
 <table>
   <tr>
     <th align="left">Category</th>
-    <th align="left">Technologies & Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th align="left">Technologies & Tools</th>
   </tr>
   <tr>
     <td><b>Languages</b></td>
@@ -70,48 +66,36 @@ Here are the technologies and tools I use in my daily studies and test automatio
   </tr>
 </table>
 
-
-
-
 ---
 
 ### 🧠 What I'm currently focusing on / learning:
 
-*  **Building clean and scalable End-to-End (E2E) test architectures** with Cypress.
-*  **API validation and automated testing** using Postman.
-*  **Writing efficient test scenarios** and strategic web element mapping.
-*  **Applying software quality concepts in practice** through academic and personal projects.
+* **Building clean and scalable End-to-End (E2E) test architectures** with Cypress.
+* **API validation and automated testing** using Postman.
+* **Writing efficient test scenarios** and strategic web element mapping.
+* **Applying software quality concepts in practice** through academic and personal projects.
 
 ---
-
 
 ### 🤝 Let's Connect!
 
 I love exchanging ideas about technology, software testing, and agile methodologies. If you'd like to follow my journey or connect professionally, feel free to reach out:
----
 
-
-<hr />
-
-
+<br />
 
 <div align="center">
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/biancagomesdelira/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<!-- Gmail -->
-<a href="mailto:biancagomeslira09@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<!-- GitHub -->
-  <a href="https://github.com/SEU_USUARIO_GITHUB" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/biancagomesdelira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  </div>
-  
-
-<!--
-
+  &nbsp;
+  <!-- Gmail -->
+  <a href="mailto:biancagomeslira09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/SEU_USUARIO_GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
