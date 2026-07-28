@@ -84,9 +84,9 @@ I love exchanging ideas about technology, software testing, and agile methodolog
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/biancagomesdelira/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" /></a>
-  
+  <a href="https://www.linkedin.com/in/bianca-gomes-de-lira/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" /></a>
+  &nbsp;
   <a href="mailto:biancagomeslira09@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" /></a>
-  
+  &nbsp;
   <a href="https://github.com/bianca090" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></a>
 </div>
