@@ -27,7 +27,7 @@ Currently focused on turning software engineering concepts into robust, efficien
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
+### 🛠 Core Tech Stack & Tools
 
 Here are the technologies and tools I use in my daily studies and test automation development:
 
@@ -55,6 +55,14 @@ Here are the technologies and tools I use in my daily studies and test automatio
     <td><b>API Testing</b></td>
     <td>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Test & Project Management</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+      <img src="https://img.shields.io/badge/Qase-0052CC?style=for-the-badge&logo=qase&logoColor=white" alt="Qase" />
+      <img src="https://img.shields.io/badge/TestLink-185888?style=for-the-badge&logo=testlink&logoColor=white" alt="TestLink" />
     </td>
   </tr>
   <tr>
