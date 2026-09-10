@@ -66,6 +66,20 @@ Here are the technologies and tools I use in my daily studies and test automatio
     </td>
   </tr>
   <tr>
+    <td><b>CI/CD & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+  </tr>
+  <tr>
     <td><b>Version Control</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -73,8 +87,6 @@ Here are the technologies and tools I use in my daily studies and test automatio
     </td>
   </tr>
 </table>
-
----
 
 ### 🧠 What I'm currently focusing on / learning:
 
