@@ -17,7 +17,7 @@
 
 Software Development student in my final term, passionate about Quality Assurance (QA) and Test Automation. I use my GitHub as a hands-on portfolio to share academic projects, technical challenges, and my growth in software testing.
 
-Currently focused on turning software engineering concepts into robust, efficient test automation scripts — always applying industry best practices and exploring new technologies.
+Currently focused on turning software engineering concepts into robust, efficient test automation scripts  always applying industry best practices and exploring new technologies.
 
 ---
 
@@ -95,7 +95,7 @@ Here are the technologies and tools I use in my daily studies and test automatio
 * **Executing load and performance testing with k6 to evaluate system stability and responsiveness under heavy stress.**
 * **Writing efficient test scenarios and strategic web element mapping.**
 * **Applying software quality concepts in practice through academic and personal projects.**
-
+* Currently studying to get my <img src="https://img.shields.io/badge/ISTQB%C2%AE-Certified%20Tester%20Foundation%20Level-18598B?style=for-the-badge&labelColor=E2001A" align="middle" /> 
 ---
 
 ### 🤝 Let's Connect!
