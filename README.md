@@ -90,7 +90,7 @@ Here are the technologies and tools I use in my daily studies and test automatio
 
 ### 🧠 What I'm currently focusing on / learning:
 
-* **Building clean and scalable End-to-End (E2E) test architectures with Cypress and Robot Framework.**
+* **Building clean and scalable End-to-End (E2E) test architectures with Cypress, Robot Framework and Playwright.**
 * **API validation and automated testing using Postman.**
 * **Executing load and performance testing with k6 to evaluate system stability and responsiveness under heavy stress.**
 * **Writing efficient test scenarios and strategic web element mapping.**
